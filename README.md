@@ -10,10 +10,7 @@
 </div>
 
 ### :fire: My Stats :
-
-  <img width="500px" height ="200px"
-  src="http://github-readme-streak-stats.herokuapp.com?user=Lalloo&theme=midnight-purple&background=000000(https://git.io/streak-stats)"
-  /> <img width="500px" height ="200px"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalloo&layout=compact&theme=midnight-purple"
-  />
-
+<p>
+  <img width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=Lalloo&theme=midnight-purple&background=000000(https://git.io/streak-stats)"/>      
+  <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalloo&layout=compact&theme=midnight-purple"/>
+</p>
