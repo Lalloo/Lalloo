@@ -12,5 +12,4 @@
 ### :fire: My Stats :
 <p>
   <img width="400px" src="http://github-readme-streak-stats.herokuapp.com?user=Lalloo&theme=midnight-purple&background=000000(https://git.io/streak-stats)"/>      
-  <img width="340px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lalloo&layout=compact&theme=midnight-purple"/>
 </p>
